@@ -4,5 +4,8 @@
 'use strict';
 
 const add = function(a, b) {
+    a++;
     return a + b;
 };
+
+let aa = 'b';
